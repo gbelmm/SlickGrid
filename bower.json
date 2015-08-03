@@ -1,0 +1,16 @@
+{
+  "name": "SlickGrid",
+  "version": "2.2.4",
+  "homepage": "https://github.com/gbelmm/SlickGrid",
+  "authors": [
+    "gbelmm <gbelmm@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
